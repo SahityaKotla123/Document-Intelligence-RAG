@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-core
+faiss-cpu
+sentence-transformers
+numpy
+openai
+pypdf
+python-docx
+docx2txt
